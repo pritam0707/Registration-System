@@ -42,9 +42,4 @@ A complete user authentication system developed using PHP, MySQL, HTML, and CSS.
 - Password Hashing using password_hash()
 - Password Verification using password_verify()
 - Prepared Statements to prevent SQL Injection
-- Session-based Authentication
-
- ## Screenshots
-
-### Registration Page Login Page Dashboard Page
-![Screenshots](Registration-System/Screenshot.jpg)
+- Session-based Authentication 
